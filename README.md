@@ -1,4 +1,4 @@
-# SENATRAN_2018_2023
+# SENATRAN 2018 a 2023
 Análise dos dados abertos da Secretaria Nacional do Transito
 
 Esse projeto tem o objetivo de estudar análise de dados com informações reais sobre o transito brasileiro.
